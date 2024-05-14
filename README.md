@@ -4,13 +4,20 @@ Welcome to my Github profile 🚀
 
 My name is Benjamin "creberust" Peter 👋
 
+## Who am I ?
+
 - 🦀 Rustacean
 - 🎓 Junior Embedded Systems Engineer ⚙️
-- 📫 You can reach me by sending a mail at bpeter@tuta.com 
+- 🎮 I play a wide variety of games (video games, board games).
+- 🧗‍♂️ I practice different sports: climbing, karting, and workout
+- 🏎️ I also enjoy watching a lot of motorsport (Formula 1/2/3 & WEC)
 
-I'm currently contributing to Rust projects 🦀
+## Interests
 
-- [tokio-modbus](https://github.com/slowtec/tokio-modbus)
-- [rumqtt](https://github.com/bytebeamio/rumqtt)
+- 📖 Contributing to Rust projects on my spare time 🦀
+- 🎄 [Advent of Code](https://github.com/creberust/advent-of-code) for fun and learning purposes
+- 🎮 Game dev with [Godot](https://godotengine.org/) ❤️
 
-I'm also doing the [Advent of Code](https://github.com/creberust/advent-of-code) for fun and learning purposes.
+## Contact
+
+- 📫 You can reach me by sending a mail at bpeter@tuta.com
